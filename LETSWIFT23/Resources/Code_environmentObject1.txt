@@ -1,0 +1,17 @@
+import SwiftUI
+
+// 데이터 모델 클래스
+class MyDataModel: ObservableObject {
+    @Published var count = 0
+}
+// 데이터 모델을 환경에 주입
+@main
+struct MyApp: App {
+    @StateObject var myDataModel = MyDataModel()
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+                .environmentObject(myDataModel)
+        }
+    }
+}

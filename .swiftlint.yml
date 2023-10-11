@@ -1,0 +1,20 @@
+disabled_rules: # Default Rules에서 비활성화할 규칙
+    # https://realm.github.io/SwiftLint/trailing_whitespace.html
+    - trailing_whitespace
+    
+    # https://realm.github.io/SwiftLint/identifier_name.html
+    - identifier_name
+
+opt_in_rules:
+    # https://realm.github.io/SwiftLint/empty_count.html
+    - empty_count
+    
+    # https://realm.github.io/SwiftLint/empty_string.html
+    - empty_string
+
+function_body_length:
+    warning: 100
+
+line_length:
+    warning: 700
+    error: 700

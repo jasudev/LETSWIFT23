@@ -1,0 +1,19 @@
+import SwiftUI
+
+struct ContentView: View {
+    
+    // MARK: - PROPERTIES  
+    private var habits = [
+        "🏊‍♂️ Swim 5k",
+        "🧘 Meditate",
+        "📖 Read a chapter",
+        "👨‍💻 Complete 2 leetcodes" 
+    ]
+    
+    // MARK: - VIEWS  
+    var body: some View {
+        List(self.habits, id: \.self) { habit in
+            Text(habit)
+        }
+    }
+}

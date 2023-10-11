@@ -1,0 +1,14 @@
+import SwiftUI
+
+// ContentView에서 MyDataModel을 사용하기 위해 환경에 주입
+struct ContentView: View {
+    @EnvironmentObject var dataModel: MyDataModel
+    var body: some View {
+        VStack {
+            Text("Count: \(dataModel.count)")
+            Button("Increase Count") {
+                dataModel.count += 1
+            }
+        }
+    }
+}

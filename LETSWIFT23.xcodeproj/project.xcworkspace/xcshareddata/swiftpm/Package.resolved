@@ -1,0 +1,158 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "8dd85aee02e39dd280c75eef88ffdb86eed4b07b",
+        "version" : "5.6.2"
+      }
+    },
+    {
+      "identity" : "animatetext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/AnimateText.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0f478496bb3d8931ae3316c140dfef786434d68d"
+      }
+    },
+    {
+      "identity" : "axiscontribution",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/AxisContribution.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b7a54b514422c1455ea94dc6e7451fd652aac657"
+      }
+    },
+    {
+      "identity" : "axisratingbar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/AxisRatingBar.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "edc48620a2cd9f6b3cec0642ebcac4a6cf6d0e56"
+      }
+    },
+    {
+      "identity" : "axissegmentedview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/AxisSegmentedView.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "44e42f5766fe3fd1dda6b1a3f2047127f9e51b2e"
+      }
+    },
+    {
+      "identity" : "axissheet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/AxisSheet.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e577c37a7ee184f7018c85f0bf35baccbaa4c950"
+      }
+    },
+    {
+      "identity" : "axistabview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/AxisTabView.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a96f3ad288a733f1c774ea57bad8be87b45aa56e"
+      }
+    },
+    {
+      "identity" : "axistooltip",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/AxisTooltip.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ed9f7acbbd54dc3ab70585c0cd006974b532e998"
+      }
+    },
+    {
+      "identity" : "codehighlighter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mortenjust/CodeHighlighter.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5fe019a1829ee48af945f6b4da83bf51fedde016"
+      }
+    },
+    {
+      "identity" : "fabulaitemsprovider",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/FabulaItemsProvider.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "aff7800fd9c547e5045183166a149e3cdadf249d"
+      }
+    },
+    {
+      "identity" : "highlightr",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mortenjust/Highlightr",
+      "state" : {
+        "branch" : "master",
+        "revision" : "9deceba149e481f85a6a8f2eec72e5036cb8f7d8"
+      }
+    },
+    {
+      "identity" : "lottie-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-spm.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "60ea4f82fba8b4cb21a75665a889e86ed4d81c6e"
+      }
+    },
+    {
+      "identity" : "lottieui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/LottieUI.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0cd5b54a1c8467b19c01f56395aec179087b62e2"
+      }
+    },
+    {
+      "identity" : "scroller",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/Scroller.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a825313309c2fc6964b50edc83867370ad08bb47"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "80683c20d8f15e10ac1ce605cca5008a295846bd",
+        "version" : "5.14.1"
+      }
+    },
+    {
+      "identity" : "sdwebimageswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "ed288667c909c89127ab1b690113a3e397af3098"
+      }
+    },
+    {
+      "identity" : "unsplashprovider",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/UnsplashProvider.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "11e624bcc2d8c402fa25695fc34699419c3283d1"
+      }
+    }
+  ],
+  "version" : 2
+}

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<URL>
+<menu label="PAGE_3">
+  <list label="CROP BITMAP_3"          date="07-02-12" 	target="/works/section03/crop_bitmap3.swf" />
+  <list label="CROP BITMAP_1"          date="07-02-07" 	target="/works/section03/crop_bitmap.swf" />
+  <list label="LINE" />
+  <list label="CLIP NAVI_1"          date="07-02-01" 	target="/works/section03/clip_navi.swf" />
+  <list label="CLIP NAVI_2"          date="07-02-03" 	target="/works/section03/clip_navi2.swf" />
+  <list label="CLIP NAVI_3"          date="07-02-03" 	target="/works/section03/clip_navi3.swf" />
+  <list label="LINE" />
+  <list label="CREATE RANDOM MC_1"          date="07-01-27" 	target="/works/section03/create_random_mc.swf" />
+  <list label="CREATE RANDOM MC_2"          date="07-01-28" 	target="/works/section03/create_random_mc2.swf" />
+  <list label="CREATE RANDOM MC_3"          date="07-01-28" 	target="/works/section03/create_random_mc3.swf" />
+  <list label="CREATE RANDOM MC_4"          date="07-01-28" 	target="/works/section03/create_random_mc4.swf" />
+  <list label="LINE" />
+  <list label="GRAPH_1"          date="07-01-25" 	target="/works/section03/graph.swf" />
+  <list label="LINE" />
+  <list label="TRAPEZOID NAVI_1"          date="07-01-24" 	target="/works/section03/trapezoid_navi.swf" />
+</menu>
+<menu label="PAGE_2">
+  <list label="BITMAP CHARACTERS"          date="07-01-21" 	target="/works/section02/bitmap_character.swf" />
+  <list label="LINE" />
+  <list label="DISTORT NAVI_2"          date="07-01-18" 	target="/works/section02/distort_navi2.swf" />
+  <list label="DISTORT NAVI_1"          date="07-01-18" 	target="/works/section02/distort_navi.swf" />
+  <list label="LINE" />
+  <list label="DISTORT IMAGE"          date="07-01-16" 	target="/works/section02/distort_image.swf" />
+  <list label="LINE" />
+  <list label="DRAW PATH_1"          date="07-01-12" 	target="/works/section02/draw_path1.swf" />
+  <list label="DRAW PATH_2"          date="07-01-12" 	target="/works/section02/draw_path2.swf" />
+  <list label="DRAW PATH_3"          date="07-01-13" 	target="/works/section02/draw_path3.swf" />
+  <list label="DRAW PATH_4"          date="07-01-13" 	target="/works/section02/draw_path4.swf" />
+  <list label="LINE" />
+  <list label="PATH NAVI_1"          date="07-01-09" 	target="/works/section02/path_navi.swf" />
+  <list label="LINE" />
+  <list label="CURVE PATH_1"          date="07-01-08" 	target="/works/section02/curve_path1.swf" />
+  <list label="LINE" />
+  <list label="LINE PATH_1"          date="07-01-06" 	target="/works/section02/line_path1.swf" />
+  <list label="LINE PATH_2"          date="07-01-08" 	target="/works/section02/line_path2.swf" />
+  <list label="LINE PATH_3"          date="07-01-08" 	target="/works/section02/line_path3.swf" />
+  <list label="LINE PATH_4"          date="07-01-08" 	target="/works/section02/line_path4.swf" />
+  <list label="LINE" />
+  <list label="DRAW PATH RECORDER"          date="07-01-07" 	target="/works/section02/draw_path_recorder.swf" />
+  <list label="CURVE RECORDER (3D)"          date="07-01-09" 	target="/works/section02/curve_path_recorder2.swf" />
+  <list label="CURVE RECORDER (2D)"          date="07-01-07" 	target="/works/section02/curve_path_recorder.swf" />
+  <list label="LINE PATH RECORDER"          date="07-01-05" 	target="/works/section02/line_path_recorder.swf" />
+  <list label="LINE" />
+  <list label="CURVE LINE_1"          date="07-01-04" 	target="/works/section02/curve_line1.swf" />
+</menu>
+<menu label="PAGE_1">
+  <list label="SCROLL BAR_1"          date="07-01-02" 	target="/works/section01/scroll_bar1.swf" />
+  <list label="LINE" />
+  <list label="TAN NAVIGATION_1"          date="07-01-01" 	target="/works/section01/tan_navi1.swf" />
+  <list label="TAN NAVIGATION_2"          date="07-01-01" 	target="/works/section01/tan_navi2.swf" />
+  <list label="TAN NAVIGATION_3"          date="07-01-02" 	target="/works/section01/tan_navi3.swf" />
+  <list label="TAN NAVIGATION_4"          date="07-01-04" 	target="/works/section01/tan_navi4.swf" />
+  <list label="LINE" />
+  <list label="CIRCLE RANDOM MOTION_1"          date="06-12-29" 	target="/works/section01/circle_random_motion1.swf" />
+  <list label="CIRCLE RANDOM MOTION_2"          date="06-12-29" 	target="/works/section01/circle_random_motion2.swf" />
+  <list label="CIRCLE RANDOM MOTION_3"          date="06-12-30" 	target="/works/section01/circle_random_motion3.swf" />
+  <list label="CIRCLE RANDOM MOTION_4"          date="06-12-30" 	target="/works/section01/circle_random_motion4.swf" />
+  <list label="CIRCLE RANDOM MOTION_5"          date="06-12-31" 	target="/works/section01/circle_random_motion5.swf" />
+  <list label="CIRCLE RANDOM MOTION_6"          date="06-12-31" 	target="/works/section01/circle_random_motion6.swf" />
+  <list label="CIRCLE RANDOM MOTION_7"          date="06-12-31" 	target="/works/section01/circle_random_motion7.swf" />
+  <list label="LINE" />
+  <list label="CIRCLE EFFECT"          date="06-12-28" 	target="/works/section01/circle_effect.swf" />
+  <list label="LINE" />
+  <list label="LINE MOTION_1"          date="06-12-28" 	target="/works/section01/line_motion1.swf" />
+  <list label="LINE MOTION_2"          date="06-12-28" 	target="/works/section01/line_motion2.swf" />
+  <list label="LINE" />
+  <list label="USE MOUSE WHEEL_1"          date="06-12-27" 	target="/works/section01/use_mouse_wheel1.swf" />
+  <list label="USE MOUSE WHEEL_2"          date="06-12-27" 	target="/works/section01/use_mouse_wheel2.swf" />
+  <list label="LINE" />
+  <list label="CIRCLE MOTION_1"          date="06-12-26" 	target="/works/section01/circle_motion1.swf" />
+  <list label="CIRCLE MOTION_2"          date="06-12-26" 	target="/works/section01/circle_motion2.swf" />
+</menu>
+
+
+</URL>
+

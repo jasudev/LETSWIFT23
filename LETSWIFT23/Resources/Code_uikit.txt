@@ -1,0 +1,66 @@
+import UIKit
+
+class ViewController: UIViewController {
+    
+    // MARK: - PROPERTIES
+    private var habits = [
+        "🏊‍♂️ Swim 5k",
+        "🧘 Meditate",
+        "📖 Read a chapter",
+        "👨‍💻 Complete 2 leetcodes"
+    ]
+    
+    // MARK: - SUBVIEWS
+    private let habitsTableView: UITableView = {
+        let tableView = UITableView(frame: .zero, style: .insetGrouped)
+        tableView.register(UITableViewCell.self, forCellReuseIdentifier: "cell")
+        tableView.translatesAutoresizingMaskIntoConstraints = false
+        return tableView
+    }()
+    
+    // MARK: - LIFECYCLE
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        setup()
+    }
+    
+    // MARK: - SETUP
+    private func setup() {
+        setupSubviews()
+        setupConstraints()
+        setupDelegates()
+    }
+    
+    private func setupSubviews() {
+        view.addSubview(habitsTableView)
+    }
+    
+    private func setupConstraints() {
+        NSLayoutConstraint.activate([
+            habitsTableView.leadingAnchor.constraint(equalTo: self.view.leadingAnchor),
+            habitsTableView.trailingAnchor.constraint(equalTo: self.view.trailingAnchor),
+            habitsTableView.topAnchor.constraint(equalTo: self.view.topAnchor),
+            habitsTableView.bottomAnchor.constraint(equalTo: self.view.bottomAnchor)
+        ])
+    }
+    
+    private func setupDelegates() {
+        habitsTableView.delegate = self
+        habitsTableView.dataSource = self
+    }
+}
+
+extension ViewController: UITableViewDelegate, UITableViewDataSource {
+    
+    // MARK: TABLEVIEW METHODS
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return habits.count
+    }
+    
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        let cell = tableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath)
+        cell.textLabel?.text = habits[indexPath.row]
+        return cell
+    }
+}
+

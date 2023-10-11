@@ -1,0 +1,19 @@
+import SwiftUI
+
+struct ContentView: View {
+    var body: some View {               // Red line
+        VStack {
+            Image(systemName: "globe")  // Yellow line
+                .imageScale(.large)
+                .foregroundColor(.accentColor)
+            Text("Hello, world!")       // Orange line
+        }
+        .padding()                      // Blue line
+    }
+}
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}

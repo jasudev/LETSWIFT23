@@ -1,0 +1,19 @@
+struct ContentView: View {
+        
+    @State private var angle = 0.0
+    
+    var body: some View {
+        VStack(spacing: 90) {
+            Image("SwiftUI")
+                .resizable()
+                .frame(width: 100, height: 100)
+                .rotationEffect(.degrees(angle))
+                
+            Button("Press here") {
+                withAnimation(.easeInOut(duration: 0.5)) {
+                    angle += 45
+                }
+            }
+        }
+    }
+}
