@@ -7,7 +7,7 @@
 [![MIT](https://img.shields.io/badge/licenses-MIT-red.svg)](https://opensource.org/licenses/MIT)  
 
 
-| ![launcher_256](https://github.com/jasudev/LETSWIFT23/assets/1617304/56e8bc0a-af2a-4e7e-806f-0192e4d440cb) |
+| ![launcher_256](https://github.com/jasudev/LETSWIFT23/assets/1617304/a90f5953-e119-4ac7-8610-04bb0b8ed9fa) |
 | :------------: |
 | [**Download for Mac OS X**](https://github.com/jasudev/LETSWIFT23/raw/main/LETSWIFT23.zip) |
 
