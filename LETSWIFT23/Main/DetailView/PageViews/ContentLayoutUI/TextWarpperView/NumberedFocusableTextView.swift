@@ -56,7 +56,7 @@ struct NumberedFocusableTextView: View {
 
 struct NumberedFocusableTextView_Previews: PreviewProvider {
     static var previews: some View {
-        NumberedFocusableTextView(index: .constant(3), startIndex: 2, titles: [
+        NumberedFocusableTextView(index: .constant(2), startIndex: 2, titles: [
             "스티브 잡스 애플에서 사임, NeXT Computer 설립",
             "Objective-C 언어 Apple 역사에 합류, 잡스 복귀",
             "NeXTSTEP 운영체제 2001년 출시된 Mac OS X의 기반",
